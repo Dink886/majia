@@ -6,7 +6,7 @@
   },
   {
     "app":"mb8pro",
-    "isEnable":false,
+    "isEnable":true,
     "url":"https://mb8box2.com/"
   }
 ]
