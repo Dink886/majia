@@ -1,0 +1,12 @@
+[
+  {
+    "app":"default",
+    "isEnable":true,
+    "url":"https://mb8box2.com/"
+  },
+  {
+    "app":"mb8pro",
+    "isEnable":false,
+    "url":"https://mb8box2.com/"
+  }
+]
